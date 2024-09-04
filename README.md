@@ -21,7 +21,7 @@ Furthermore, changing the CPU difficulty didn't seem to change this behavior.
 This has not been peer-reviewed, so everything must be taken with a grain of salt. I did not verify the statistics for every scenario for every difficulty, so it is possible that there might be some special cases where the CPU has a different behavior. I've tested all the possible strategies under these assumptions for the behavior of the CPU, but it's always possible some math mistakes were made along the way.
 
 # Acknowledgment
-Thanks to hahaphd for the idea of this project and the discussions.
+Thanks to hahaphd for the idea of this project and for the discussions.
 
 # Game Tree
 ![headwaiter-gametree](https://github.com/falkush/headwaiter/blob/main/headwaiter-gametree.png?raw=true)
