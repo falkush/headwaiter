@@ -1,5 +1,5 @@
 # headwaiter
-Strategy for Mario Party 5 Minigame Head Waiter. This will give you a success rate of 113/162 which is about 70%.
+Strategy for Mario Party 5 Minigame Head Waiter. This will give you a success rate of 113/162 against CPUs, which is about 70%.
 
 # Strategy
 If you play first, press B so that the counter goes 9->7. If the CPU goes 7->6, play B-B. If the CPU goes 7->5, play B-A.
